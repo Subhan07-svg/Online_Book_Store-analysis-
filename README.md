@@ -178,3 +178,6 @@ This project provides hands-on experience with SQL queries, relational database 
 **Project Category:** Data Analysis  
 **Domain:** Online Bookstore / Retail  
 **Technology:** PostgreSQL and SQL
+
+
+
